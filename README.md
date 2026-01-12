@@ -1,6 +1,6 @@
-# Ruta Violeta Backend
+# CASILDA Backend
 
-Backend para el sistema de gestión de la Ruta Violeta desarrollado con Spring Boot y PostgreSQL.
+Backend para el Sistema de Información CASILDA desarrollado con Spring Boot y PostgreSQL.
 
 ## Requisitos
 
@@ -13,7 +13,7 @@ Backend para el sistema de gestión de la Ruta Violeta desarrollado con Spring B
 1. Instalar PostgreSQL
 2. Crear la base de datos:
 ```sql
-CREATE DATABASE ruta_violeta_db;
+CREATE DATABASE casilda;
 ```
 
 3. Configurar credenciales en `src/main/resources/application.yml`:
