@@ -20,7 +20,7 @@ CREATE DATABASE casilda;
 ```yaml
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/ruta_violeta_db
+    url: jdbc:postgresql://localhost:5432/casilda
     username: postgres
     password: postgres
 ```
@@ -131,4 +131,4 @@ El sistema maneja los siguientes tipos de errores:
 
 ## Autor
 
-Proyecto desarrollado para el sistema de gestión de la Ruta Violeta.
+Proyecto desarrollado para el Sistema de Información CASILDA.
